@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Linkedin: ffurkankarakoc GitHub furkankarakoc
+
+let furkankarakoc = {
+  pronouns: "He" | "His",
+  code: [Swift,SwfitUI,Objective-C],
+  tools: [XCODE, TestFlight],
+  databases: [CoreData, Realm, SQLLite]
+}
+
 
 - 🔭 I’m currently working on iOS Applications
 - 🌱 I’m currently learning Swift and SwifttUI
