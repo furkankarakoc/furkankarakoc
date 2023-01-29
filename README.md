@@ -21,3 +21,5 @@ let furkankarakoc = [
 - 💬 Ask me about swift and swiftUI
 - 📫 How to reach me: ffurkankarakoc@gmail.com
 
+
+![image](https://github.com/ittus/ittus/blob/master/dino.gif)
