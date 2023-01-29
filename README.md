@@ -1,8 +1,6 @@
 ### Hi there 👋 
 
 LINKEDIN: 
-
-
 [<img width="100" alt="image" src="https://user-images.githubusercontent.com/44609894/215359443-2bff6540-c547-477d-9e5b-69aae11e3500.png">](https://www.linkedin.com/in/ffurkankarakoc/)
 
 
